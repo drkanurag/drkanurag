@@ -12,19 +12,13 @@
 
   <br/><br/>
 
-  <!-- Top Social & Quick Links (4 verified cached badges) -->
-  <a href="https://www.linkedin.com/in/anurag-podder-4a86211a6/">
-    <img src="https://img.shields.io/badge/LinkedIn-Anurag_Podder-0A66C2?style=for-the-badge" alt="LinkedIn" />
-  </a>&nbsp;
-  <a href="mailto:anurag1.tapmimpl2026@learner.manipal.edu">
-    <img src="https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>&nbsp;
-  <a href="https://ijcrt.org/viewfull.php?p_id=IJCRT2305259">
-    <img src="https://img.shields.io/badge/IJCRT-Research_Paper-8A2BE2?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Research Paper" />
-  </a>&nbsp;
-  <a href="https://drkanurag.github.io/Anurag-Portfolio/">
-    <img src="https://img.shields.io/badge/GitHub-Live_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
-  </a>
+  <!-- Top Social & Quick Links (Native GitHub Buttons — Zero External Image Dependencies) -->
+  <p>
+    <a href="https://www.linkedin.com/in/anurag-podder-4a86211a6/"><kbd>&nbsp;&nbsp;💼 LinkedIn — Anurag Podder&nbsp;&nbsp;</kbd></a>&nbsp;&nbsp;
+    <a href="mailto:anurag1.tapmimpl2026@learner.manipal.edu"><kbd>&nbsp;&nbsp;📧 Email — anurag1.tapmimpl2026@learner.manipal.edu&nbsp;&nbsp;</kbd></a>&nbsp;&nbsp;
+    <a href="https://ijcrt.org/viewfull.php?p_id=IJCRT2305259"><kbd>&nbsp;&nbsp;📄 Published Research (IJCRT)&nbsp;&nbsp;</kbd></a>&nbsp;&nbsp;
+    <a href="https://drkanurag.github.io/Anurag-Portfolio/"><kbd>&nbsp;&nbsp;🌐 Live Portfolio&nbsp;&nbsp;</kbd></a>
+  </p>
 
 </div>
 
@@ -265,18 +259,13 @@ Computer Associate — Project Management & Planning
 
   <br/>
 
-  <a href="https://www.linkedin.com/in/anurag-podder-4a86211a6/">
-    <img src="https://img.shields.io/badge/LinkedIn-Anurag_Podder-0A66C2?style=for-the-badge" alt="LinkedIn" />
-  </a>&nbsp;
-  <a href="mailto:anurag1.tapmimpl2026@learner.manipal.edu">
-    <img src="https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>&nbsp;
-  <a href="https://ijcrt.org/viewfull.php?p_id=IJCRT2305259">
-    <img src="https://img.shields.io/badge/IJCRT-Research_Paper-8A2BE2?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Research Paper" />
-  </a>&nbsp;
-  <a href="https://drkanurag.github.io/Anurag-Portfolio/">
-    <img src="https://img.shields.io/badge/GitHub-Live_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
-  </a>
+  <p>
+    <a href="https://www.linkedin.com/in/anurag-podder-4a86211a6/"><kbd>&nbsp;&nbsp;💼 LinkedIn — Anurag Podder&nbsp;&nbsp;</kbd></a>&nbsp;&nbsp;
+    <a href="mailto:anurag1.tapmimpl2026@learner.manipal.edu"><kbd>&nbsp;&nbsp;📧 Email Me&nbsp;&nbsp;</kbd></a>&nbsp;&nbsp;
+    <a href="https://ijcrt.org/viewfull.php?p_id=IJCRT2305259"><kbd>&nbsp;&nbsp;📄 Research Paper (IJCRT2305259)&nbsp;&nbsp;</kbd></a>&nbsp;&nbsp;
+    <a href="https://drkanurag.github.io/Anurag-Portfolio/"><kbd>&nbsp;&nbsp;🌐 Live Portfolio&nbsp;&nbsp;</kbd></a>&nbsp;&nbsp;
+    <a href="tel:+919650930525"><kbd>&nbsp;&nbsp;📱 +91-9650930525&nbsp;&nbsp;</kbd></a>
+  </p>
 
   <br/><br/>
 
