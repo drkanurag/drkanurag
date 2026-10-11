@@ -1,165 +1,345 @@
 <div align="center">
 
-# Hi there, I'm Anurag Podder 👋
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=200&section=header&text=Anurag%20Podder&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Software%20Engineer%20%20%E2%80%A2%20%20AI%20%26%20ML%20Researcher%20%20%E2%80%A2%20%20MBA%20Candidate%20%40%20TAPMI&descSize=15&descAlignY=52&descColor=8b949e" width="100%" alt="Header"/>
 
-### **MBA (AI & Data Science) Candidate @ TAPMI Manipal | Ex-Associate Software Engineer @ Mphasis | Computer Science & Engineering Graduate (B.Tech CSE)**
+  <br/>
 
-*Bridging Enterprise Software Engineering, Deep Learning & Computer Vision, and Strategic AI-Driven Project Management*
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=550&height=30&lines=Building+intelligent+systems+that+solve+real-world+problems;Deep+Learning+%7C+Computer+Vision+%7C+Enterprise+Java;Published+Researcher+%E2%80%A2+SSD+MobileNet+%E2%80%A2+YOLO+%E2%80%A2+CNN;From+code+to+production+%E2%80%94+engineering+end+to+end" alt="Typing SVG" />
+  </a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anurag%20Podder-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-podder-4a86211a6/)
-[![Email](https://img.shields.io/badge/Email-anurag1.tapmimpl2026%40learner.manipal.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anurag1.tapmimpl2026@learner.manipal.edu)
-[![Phone](https://img.shields.io/badge/Phone-%2B91--9650930525-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919650930525)
-[![IJCRT Publication](https://img.shields.io/badge/Publication-IJCRT2305259-8A2BE2?style=for-the-badge&logo=googlescholar&logoColor=white)](https://ijcrt.org/viewfull.php?&p_id=IJCRT2305259)
+  <br/><br/>
 
+  <a href="https://www.linkedin.com/in/anurag-podder-4a86211a6/">
+    <img src="https://img.shields.io/badge/-Anurag%20Podder-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>&nbsp;
+  <a href="mailto:anurag1.tapmimpl2026@learner.manipal.edu">
+    <img src="https://img.shields.io/badge/-Email%20Me-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>&nbsp;
+  <a href="https://ijcrt.org/viewfull.php?&p_id=IJCRT2305259">
+    <img src="https://img.shields.io/badge/-Published%20Research-8A2BE2?style=flat&logo=google-scholar&logoColor=white" alt="Research"/>
+  </a>&nbsp;
+  <a href="https://drkanurag.github.io/Anurag-Portfolio/">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=firefox&logoColor=white" alt="Portfolio"/>
+  </a>&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=drkanurag&color=58a6ff&style=flat&label=Profile+Views" alt="Views"/>
+
+</div>
+
+<br/>
+
+## About
+
+Software engineer and AI researcher with hands-on experience building **enterprise-grade Java applications**, **real-time computer vision systems**, and **data-driven platforms**. Published researcher in deep learning-based crime detection. Currently pursuing an **MBA in AI & Data Science** at one of India's top B-schools (**TAPMI Manipal** — AACSB & AMBA accredited) to lead at the intersection of technology and business.
+
+<table>
+<tr><td>
+
+**🏢 Experience**
+
+- **Associate Software Engineer** — Mphasis, Pune
+- **Computer Associate (PM)** — MEC Tech Engineering Solutions
+
+</td><td>
+
+**🎓 Education**
+
+- **MBA — AI & Data Science** — TAPMI Manipal *(2026–28)*
+- **B.Tech — CSE (90%)** — SRMIST *(2019–23)*
+
+</td><td>
+
+**📄 Research**
+
+- *BLUME: Behavioral Learning & Understanding in Malfeasance Evaluation*
+- IJCRT, Vol. 11, Issue 5, May 2023
+
+</td></tr>
+</table>
+
+---
+
+## Tech Stack
+
+<table>
+  <tr>
+    <td align="center" width="140"><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/SQL-%234169E1.svg?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat-square&logo=springboot&logoColor=white"/>
+      <img src="https://img.shields.io/badge/RESTful%20APIs-%23000000.svg?style=flat-square&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JSP%20%2F%20Servlets-%23007396.svg?style=flat-square&logo=java&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Tomcat-%23F8DC75.svg?style=flat-square&logo=apachetomcat&logoColor=black"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=flat-square&logo=postgresql&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>AI / ML / CV</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=flat-square&logo=opencv&logoColor=white"/>
+      <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=matplotlib&logoColor=black"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=flat-square&logo=github-actions&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat-square&logo=postman&logoColor=white"/>
+      <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Jira-%230052CC.svg?style=flat-square&logo=jira&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>PM & Docs</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MS%20Project-%23217346.svg?style=flat-square&logo=microsoft&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Excel-%23217346.svg?style=flat-square&logo=microsoft-excel&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PowerPoint-%23B7472A.svg?style=flat-square&logo=microsoft-powerpoint&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Word-%232B579A.svg?style=flat-square&logo=microsoft-word&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Agile%20%2F%20Scrum-%230052CC.svg?style=flat-square&logo=jira&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Featured Projects
+
+<div align="center">
+  <a href="https://github.com/drkanurag/Road-Damage-Detection-and-Severity-Assessment">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=drkanurag&repo=Road-Damage-Detection-and-Severity-Assessment&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  </a>
+  <a href="https://github.com/drkanurag/Surplus-Food-Redistribution-Platform">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=drkanurag&repo=Surplus-Food-Redistribution-Platform&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  </a>
+  <a href="https://github.com/drkanurag/DataLens-Global-Manager">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=drkanurag&repo=DataLens-Global-Manager&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  </a>
+  <a href="https://github.com/drkanurag/PC_PART_RECOMMENDER">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=drkanurag&repo=PC_PART_RECOMMENDER&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  </a>
+</div>
+
+<br/>
+
+<details>
+<summary><b>&nbsp;📂&nbsp; View All Repositories</b></summary>
+<br/>
+<div align="center">
+  <a href="https://github.com/drkanurag/News_Application">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=drkanurag&repo=News_Application&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  </a>
+  <a href="https://github.com/drkanurag/ResumeBuilder">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=drkanurag&repo=ResumeBuilder&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  </a>
+  <a href="https://github.com/drkanurag/Weather-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=drkanurag&repo=Weather-app&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  </a>
+  <a href="https://github.com/drkanurag/to-do-list">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=drkanurag&repo=to-do-list&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  </a>
+  <a href="https://github.com/drkanurag/Anurag-Portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=drkanurag&repo=Anurag-Portfolio&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  </a>
+</div>
+</details>
+
+---
+
+## Project Highlights
+
+### 🛣️ RoadVision AI — Road Damage Detection & Severity Assessment
+> Computer vision system trained on the RDD2022 dataset
+
+`Python` `OpenCV` `Deep Learning` `ASTM D6433`
+
+- Detects and classifies **4 road defect types** — Potholes, Longitudinal, Transverse & Alligator Cracks
+- Estimates severity (Low / Medium / High) per **ASTM D6433** standards with road health scoring
+- Real-time inference in **<50ms on CPU** with an animated web dashboard
+- [View Repository →](https://github.com/drkanurag/Road-Damage-Detection-and-Severity-Assessment)
+
+### 🍽️ Rooted — Surplus Food Redistribution Platform
+> Full-stack analytics platform tackling food waste
+
+`PostgreSQL 18` `HTML` `CSS` `JavaScript` `Data Analytics`
+
+- End-to-end food waste reduction through surplus redistribution analytics
+- **PostgreSQL 18** backend with executive decision dashboards
+- [View Repository →](https://github.com/drkanurag/Surplus-Food-Redistribution-Platform) &nbsp;·&nbsp; [Live Demo →](https://drkanurag.github.io/Surplus-Food-Redistribution-Platform/)
+
+### 🔍 BLUME — Crime Identification & Reporting Application
+> Published research — real-time CCTV threat detection system
+
+`Python` `TensorFlow` `SSD MobileNet` `YOLO` `CNN` `Transfer Learning` `Telegram API`
+
+- Real-time weapon & threat detection from CCTV feeds using **SSD MobileNet** & **TensorFlow**
+- **Transfer Learning** on 600-image custom dataset with image augmentation
+- Evaluated across **Precision**, **mAP\@0.5**, **mAP\@0.5:0.95** — automated alerts via **Telegram Bot API**
+- Benchmarked **Haar Cascade**, **YOLO**, **CNN**, and **SSD** architectures
+- **📄 Published:** [IJCRT, Vol. 11, Issue 5 (May 2023)](https://ijcrt.org/viewfull.php?&p_id=IJCRT2305259) &nbsp;·&nbsp; [Download PDF](https://ijcrt.org/paperdownload.php?paper=IJCRT2305259)
+
+### 📊 DataLens Global Manager
+> Interactive global data management & analytics dashboard
+
+`HTML` `CSS` `JavaScript`
+
+- Global data visualization and analytics platform
+- [View Repository →](https://github.com/drkanurag/DataLens-Global-Manager) &nbsp;·&nbsp; [Live Demo →](https://drkanurag.github.io/DataLens-Global-Manager/)
+
+<details>
+<summary><b>&nbsp;🔧&nbsp; More Projects</b></summary>
+<br/>
+
+| Project | Description | Tech | Links |
+|:--------|:------------|:-----|:------|
+| **PC Part Recommender** | Hardware recommendation engine | HTML, JS | [Repo](https://github.com/drkanurag/PC_PART_RECOMMENDER) · [Demo](https://drkanurag.github.io/PC_PART_RECOMMENDER/) |
+| **News Application** | Dynamic news aggregation web app | HTML, CSS, JS | [Repo](https://github.com/drkanurag/News_Application) |
+| **Resume Builder** | Interactive resume generation tool | JavaScript | [Repo](https://github.com/drkanurag/ResumeBuilder) · [Demo](https://drkanurag.github.io/ResumeBuilder/) |
+| **Weather App** | Real-time weather forecasts | JavaScript | [Repo](https://github.com/drkanurag/Weather-app) · [Demo](https://drkanurag.github.io/Weather-app/) |
+| **To-Do List** | Clean task management app | JavaScript | [Repo](https://github.com/drkanurag/to-do-list) |
+| **Portfolio Website** | Personal portfolio with animations | JavaScript | [Repo](https://github.com/drkanurag/Anurag-Portfolio) · [Demo](https://drkanurag.github.io/Anurag-Portfolio/) |
+| **Enterprise Web App** *(Mphasis)* | Java/Spring Boot enterprise backend | Java, Spring Boot, JSP | Internal — +15% perf, +18% API efficiency |
+| **AI Project Scheduling** *(MEC Tech)* | MS Project critical path & AI docs | MS Project, AI Tools | Internal — +18% reporting consistency |
+
+</details>
+
+---
+
+## Experience
+
+```
+Mphasis, Pune                                      Dec 2024 – Feb 2025
+Associate Software Engineer
+├── Enterprise web apps — Core Java, JSP, Servlets, Spring Boot (+15% performance)
+├── RESTful API engineering via Spring Boot (+18% backend efficiency)
+├── Cross-functional delivery with QA, UI/UX, DevOps teams
+└── Agile/Scrum — stand-ups, sprint planning, reviews, retrospectives
+
+MEC Tech Engineering Solutions, West Delhi          Jul 2023 – Aug 2025
+Computer Associate — Project Management & Planning
+├── Project scheduling with MS Project — critical path & milestone mapping
+├── Schedule variance analysis & execution gap identification
+├── Executive PowerPoint presentations for stakeholder reviews
+└── AI-standardized documentation (+18% reporting consistency)
+```
+
+---
+
+## Education
+
+```
+2026 – 2028    MBA — AI & Data Science           TAPMI Manipal (AACSB & AMBA)    Pursuing
+2019 – 2023    B.Tech — CSE                      SRMIST, Ghaziabad               90%
+2018 – 2019    HSC (Class XII)                    Ralli International School      82%
+2016 – 2017    SSC (Class X)                      Ryan International School       78%
+```
+
+---
+
+## Publications & Certifications
+
+<table>
+  <tr>
+    <td width="70" align="center">📄</td>
+    <td>
+      <b>BLUME: Behavioral Learning and Understanding in Malfeasance Evaluation</b><br/>
+      <i>International Journal of Creative Research Thoughts (IJCRT)</i> — Vol. 11, Issue 5, May 2023<br/>
+      ISSN: <code>2320-2882</code> &nbsp;|&nbsp; Paper ID: <code>IJCRT2305259</code><br/><br/>
+      <a href="https://ijcrt.org/viewfull.php?&p_id=IJCRT2305259">
+        <img src="https://img.shields.io/badge/View%20Paper-IJCRT-8A2BE2?style=flat-square" alt="View Paper"/>
+      </a>
+      <a href="https://ijcrt.org/paperdownload.php?paper=IJCRT2305259">
+        <img src="https://img.shields.io/badge/Download%20PDF-E74C3C?style=flat-square" alt="Download PDF"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">🎖️</td>
+    <td>
+      <b>Core Python Certification</b> — Indian School of Ethical Hacking (ISOEH)<br/>
+      <i>Apr 2021 – Jul 2021</i> &nbsp;|&nbsp; OOP, Exception Handling, File Processing, Modular Architecture
+    </td>
+  </tr>
+</table>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=drkanurag&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" alt="Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=drkanurag&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=8b949e&sideNums=c9d1d9" alt="Streak"/>
+
+  <br/>
+
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drkanurag&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Languages"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=drkanurag&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true" width="98%" alt="Activity Graph"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/drkanurag/ANURAG/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/drkanurag/ANURAG/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/drkanurag/ANURAG/output/github-snake.svg" width="100%" />
+  </picture>
 </div>
 
 ---
 
-## 🚀 About Me
+## GitHub Trophies
 
-- 🎓 Currently pursuing an **MBA in Artificial Intelligence & Data Science (AI&DS)** at **T. A. Pai Management Institute (TAPMI), Manipal** *(2026–2028)*.
-- 💻 Graduated with Distinction (**90%**) in **B.Tech – Computer Science & Engineering (CSE)** from **SRM Institute of Science and Technology, Ghaziabad** *(2019–2023)*.
-- ⚙️ Experienced in building scalable **Enterprise Web Applications & RESTful APIs** using **Core Java, Spring Boot, JSP, and Servlets** at **Mphasis**, and driving **AI-enabled Project Management & Operational Analytics** at **MEC Tech Engineering Solutions**.
-- 🧠 Published researcher in **Deep Learning, Computer Vision, and Behavioral Crime Analytics** (*IJCRT Paper UIN: `IJCRT2305259`*), specializing in real-time object detection (**SSD MobileNet, YOLO, CNN, Haar Cascade**) and behavioral pattern recognition.
-
----
-
-## 🛠️ Coding Languages, Frameworks & Technical Stack
-
-### **Programming Languages & Core Paradigms**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Core_Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5%20%2F%20JSP-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-- **Python:** Core Python, Object-Oriented Programming (OOPS), Exception Handling, File Processing, Modular Package Architecture, Data Analysis & Scientific Computing.
-- **Java:** Core Java, Java Server Pages (JSP), Java Servlets, Object-Oriented Design, Enterprise Web Application Development.
-
-### **Backend & Enterprise Application Development**
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Java Servlets](https://img.shields.io/badge/JSP_%26_Servlets-007396?style=for-the-badge&logo=java&logoColor=white)
-![Telegram API](https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
-
-- **Enterprise Web & Microservices:** Spring Boot, RESTful API Design & Integration, JSP (JavaServer Pages), Servlets, Backend Performance & Scalability Optimization, Automated Alert Integrations (Telegram API).
-
-### **Artificial Intelligence, Machine Learning & Computer Vision**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-- **Object Detection & Computer Vision Architectures:** SSD MobileNet (Single Shot MultiBox Detector), YOLO (You Only Look Once), Convolutional Neural Networks (CNN), Haar Cascade Classifiers.
-- **Machine Learning & Model Engineering:** Transfer Learning, Custom Dataset Curation & Image Augmentation, Bounding-Box Regression, Unsupervised Clustering, Supervised Classification, Behavioral Pattern Recognition.
-- **Model Evaluation Metrics:** Precision, Recall, `mAP@0.5`, `mAP@0.5:0.95`, Training Loss & Validation Loss Analysis, FPS vs. Small-Object Detection Benchmarking.
-
-### **Project Management, Methodologies & Productivity Tools**
-![MS Project](https://img.shields.io/badge/MS_Project-217346?style=for-the-badge&logo=microsoft&logoColor=white)
-![Agile Scrum](https://img.shields.io/badge/Agile_%2F_Scrum-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![MS Excel](https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![MS PowerPoint](https://img.shields.io/badge/MS_PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
-![Git](https://img.shields.io/badge/Git_%26_DevOps-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-- **Project Planning & Execution:** Microsoft Project (Critical Path Mapping, Milestone Tracking, Multi-Workstream Scheduling, Schedule Variance & Gap Analysis).
-- **Software Engineering Practices:** Agile Development (Daily Stand-ups, Sprint Planning, Reviews, Retrospectives), Cross-functional Collaboration (QA, UI/UX, DevOps), Debugging, Testing & Production Deployments.
-- **Business & AI Productivity:** Advanced MS Excel, MS Word, Executive PowerPoint Presentations, AI-Assisted Documentation & Operational Reporting Standardization.
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=drkanurag&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies"/>
+</div>
 
 ---
 
-## 💻 Projects Undertaken & Technical Implementations
+<div align="center">
 
-### 1. 🔍 **BLUME: Crime Identification & Reporting Application**
-> **Real-Time CCTV Surveillance, Threat Detection & Automated Alerting System**  
-> **Tech Stack:** `Python` • `TensorFlow` • `Deep Learning` • `SSD MobileNet` • `Transfer Learning` • `YOLO` • `CNN` • `Haar Cascade` • `Image Augmentation` • `Telegram API`
+  ### 💬 *"First, solve the problem. Then, write the code."* — John Johnson
 
-- **Real-Time Threat Detection Engine:** Engineered a real-time CCTV-based crime identification system using **SSD MobileNet**, **TensorFlow**, and **Deep Learning** to automatically detect and classify potentially dangerous objects and weapons in live surveillance video footage.
-- **Transfer Learning & Custom Dataset Pipeline:** Implemented **Transfer Learning** on a **600-image custom dataset**, applying **image augmentation** techniques to enrich training diversity, prevent overfitting, and generate highly accurate **bounding-box predictions** for detected objects.
-- **Comprehensive Model Evaluation & Real-Time Alerting:** Evaluated object detection performance across **Precision**, **mAP@0.5**, **mAP@0.5:0.95**, **training loss**, and **validation loss** to validate model accuracy, while communicating real-time security threats instantly through automated **Telegram alerts**.
-- **Comparative Architecture Benchmarking:** Analyzed and benchmarked **Haar Cascade**, **YOLO**, **CNN**, and **SSD** architectures to compare object-detection performance across detection accuracy, real-time processing speed, and small-object detection capabilities for surveillance applications.
+  <br/>
 
----
+  <a href="https://www.linkedin.com/in/anurag-podder-4a86211a6/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>&nbsp;
+  <a href="mailto:anurag1.tapmimpl2026@learner.manipal.edu">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>&nbsp;
+  <a href="https://drkanurag.github.io/Anurag-Portfolio/">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+  </a>&nbsp;
+  <a href="https://ijcrt.org/viewfull.php?&p_id=IJCRT2305259">
+    <img src="https://img.shields.io/badge/-Research-8A2BE2?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Research"/>
+  </a>
 
-### 2. 🧠 **Behavioral Crime Pattern Recognition & Analytics System (BLUME Research)**
-> **Machine Learning & CNN-Based Behavioral Malfeasance Evaluation System**  
-> **Tech Stack:** `Python` • `Machine Learning` • `Clustering` • `Classification` • `Convolutional Neural Networks (CNN)` • `Pattern Recognition`
+  <br/><br/>
 
-- **Crime Data & Behavioral Modeling:** Built an end-to-end crime analysis system using **Python**, **unsupervised clustering**, **supervised classification**, and **CNN-based pattern recognition** to identify, segment, and analyze behavioral patterns in crime-related datasets.
-- **Published Research Contribution:** Authored and published the peer-reviewed research paper *"BLUME: Behavioral Learning and Understanding in Malfeasance Evaluation"* in the **International Journal of Creative Research Thoughts (IJCRT)** (`UIN: IJCRT2305259`), presenting a novel machine learning framework to evaluate behavioral and crime data.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=100&section=footer" width="100%"/>
 
----
-
-### 3. 🏢 **Enterprise Web Application & RESTful API Modernization** *(at Mphasis)*
-> **Full-Stack Enterprise Java & Spring Boot Backend Engineering**  
-> **Tech Stack:** `Core Java` • `Spring Boot` • `JSP` • `Servlets` • `RESTful APIs` • `Agile / Scrum` • `DevOps`
-
-- **Application Performance & Scalability (+15%):** Built, enhanced, and maintained enterprise web applications using **Core Java**, **JSP**, **Servlets**, and **Spring Boot**, improving overall application performance and scalability by **15%** while supporting critical business operations.
-- **High-Efficiency RESTful Microservices (+18%):** Engineered and integrated **RESTful APIs** using **Spring Boot**, improving backend efficiency by **18%**, optimizing payload data exchange, and enabling seamless integration across distributed application modules and services.
-- **Cross-Functional Production Delivery:** Collaborated closely with **QA**, **UI/UX**, and **DevOps** teams across Agile sprints to support debugging, automated/manual testing, application enhancements, and zero-downtime production deployments.
-
----
-
-### 4. 📊 **AI-Enabled Project Scheduling & Operational Reporting Framework** *(at MEC Tech Engineering Solutions)*
-> **Multi-Workstream Project Planning, Critical Path Mapping & AI Documentation**  
-> **Tech Stack:** `MS Project` • `AI Workflows` • `MS Excel` • `MS Word` • `MS PowerPoint`
-
-- **Critical Path & Milestone Engineering:** Planned and maintained end-to-end project schedules using **MS Project**, mapping critical paths and milestones across multiple concurrent workstreams to improve timeline visibility and ensure timely delivery.
-- **AI-Driven Reporting Standardization (+18%):** Standardized operational records and technical documentation across workstreams using **MS Word**, **MS Excel**, and **AI tools**, improving reporting consistency by **18%** and enabling faster retrieval of project intelligence.
-- **Schedule Variance Analysis & Executive Reviews:** Analyzed project deliverables to identify schedule variations and execution gaps early, synthesizing technical updates into executive **PowerPoint presentations** for stakeholder review sessions.
-
----
-
-## 💼 Professional Experience
-
-### **Computer Associate — Project Management & Planning**
-📍 **MEC Tech Engineering Solutions, West Delhi** | 🗓️ *July 2023 – Nov 2024 & Feb 2025 – August 2025*
-- Planned and maintained project schedules using **MS Project**, mapping critical paths and milestones across multiple workstreams, improving timeline visibility and supporting timely project delivery.
-- Analyzed project milestones and deliverables, identifying schedule variations and execution gaps, improving project tracking efficiency and enabling faster corrective actions and resource coordination.
-- Designed and prepared **PowerPoint presentations** for stakeholder meetings and review sessions, synthesizing project updates and requirements, enabling clearer project reviews.
-- Standardized documentation and operational records across workstreams using **MS Word** and **Excel**, improving reporting consistency by **18%** and enabling faster access to project information using **AI**.
-
----
-
-### **Associate Software Engineer — Enterprise Application Development**
-📍 **Mphasis, Pune** | 🗓️ *Dec 2024 – Feb 2025*
-- Built and maintained enterprise web applications using **Core Java**, **JSP**, **Servlets**, and **Spring Boot**, improving application performance and scalability by **15%** while supporting reliable business operations.
-- Engineered and integrated **RESTful APIs** using **Spring Boot**, improving backend efficiency by **18%**, optimizing data exchange, and enabling seamless integration across application modules and services.
-- Collaborated with **QA**, **UI/UX**, and **DevOps** teams to deliver stable and efficient application features, ensuring smooth integration and reliable implementation across development environments.
-- Participated in **Agile development practices** including daily stand-ups, planning, reviews, and team discussions to support effective collaboration, timely delivery, and continuous project progress.
-- Supported **debugging, testing, application enhancements, and production deployments**, helping identify issues, improve application stability, and ensure smooth and reliable software releases.
-
----
-
-## 🎓 Educational Qualifications
-
-| Degree / Qualification | Institute / University / Board | Score / % | Year |
-| :--- | :--- | :---: | :---: |
-| **MBA – Artificial Intelligence & Data Science (AI&DS)** | **T. A. Pai Management Institute (TAPMI), Manipal** *(AACSB & AMBA Accredited)* | Pursuing | 2026 – 2028 |
-| **B.Tech – Computer Science & Engineering (CSE)** | **SRM Institute of Science and Technology, Ghaziabad** | **90%** | 2019 – 2023 |
-| **HSC (Class XII)** | **Ralli International School, Indirapuram** | **82%** | 2018 – 2019 |
-| **SSC (Class X)** | **Ryan International School, Noida** | **78%** | 2016 – 2017 |
-
----
-
-## 📜 Training, Certifications & Academic Achievements
-
-### 🏆 **Published Research & Academic Excellence**
-- **Publication:** *"BLUME: Behavioral Learning and Understanding in Malfeasance Evaluation — Crime Identification and Reporting Application"*
-  - **Journal:** *International Journal of Creative Research Thoughts (IJCRT)* — Volume 11, Issue 5 (May 2023) | ISSN: `2320-2882`
-  - **Unique Identification Number (UIN):** `IJCRT2305259`
-  - **Links:** [📄 View Publication on IJCRT](https://ijcrt.org/viewfull.php?&p_id=IJCRT2305259) • [⬇️ Download Full Paper (PDF)](https://ijcrt.org/paperdownload.php?paper=IJCRT2305259)
-  - **Key Impact:** Presented a machine learning and deep learning approach combining **Python, clustering, classification, CNN-based pattern recognition, and SSD MobileNet** to analyze behavioral and crime data and automate real-time surveillance threat detection.
-
-### 🎖️ **Certification in Core Python — ISOEH** *(April 2021 – July 2021)*
-- **Organization:** Indian School of Ethical Hacking (ISOEH)
-- Built a strong foundation in **Python programming**, applying **Object-Oriented Programming (OOPS)** principles to develop modular, reusable, and maintainable applications while strengthening algorithmic problem-solving skills.
-- Implemented **exception handling** and **file processing** while utilizing **Python libraries, modules, and packages** to develop robust, reusable, and maintainable solutions with efficient program structures.
-
----
-
-## 📫 Let's Connect!
-
-- 🔗 **LinkedIn:** [Anurag Podder](https://www.linkedin.com/in/anurag-podder-4a86211a6/)
-- 📧 **Email:** [anurag1.tapmimpl2026@learner.manipal.edu](mailto:anurag1.tapmimpl2026@learner.manipal.edu)
-- 📱 **Phone:** `+91-9650930525`
-- 📄 **Research Paper:** [IJCRT2305259 — BLUME: Behavioral Learning and Understanding in Malfeasance Evaluation](https://ijcrt.org/viewfull.php?&p_id=IJCRT2305259)
-
+</div>
