@@ -14,7 +14,7 @@
 
   <!-- Top Social & Quick Links -->
   <a href="https://www.linkedin.com/in/anurag-podder-4a86211a6/">
-    <img src="https://img.shields.io/badge/LinkedIn-Anurag%20Podder-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://raw.githubusercontent.com/drkanurag/ANURAG/main/.github/linkedin-badge.svg" alt="LinkedIn" />
   </a>&nbsp;
   <a href="mailto:anurag1.tapmimpl2026@learner.manipal.edu">
     <img src="https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -266,7 +266,7 @@ Computer Associate — Project Management & Planning
   <br/>
 
   <a href="https://www.linkedin.com/in/anurag-podder-4a86211a6/">
-    <img src="https://img.shields.io/badge/LinkedIn-Anurag%20Podder-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://raw.githubusercontent.com/drkanurag/ANURAG/main/.github/linkedin-badge.svg" alt="LinkedIn" />
   </a>&nbsp;
   <a href="mailto:anurag1.tapmimpl2026@learner.manipal.edu">
     <img src="https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
