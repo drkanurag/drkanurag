@@ -12,13 +12,19 @@
 
   <br/><br/>
 
-  <!-- Top Social & Quick Links (Native GitHub Buttons — Zero External Image Dependencies) -->
-  <p>
-    <a href="https://www.linkedin.com/in/anurag-podder-4a86211a6/"><kbd>&nbsp;&nbsp;💼 LinkedIn — Anurag Podder&nbsp;&nbsp;</kbd></a>&nbsp;&nbsp;
-    <a href="mailto:anurag1.tapmimpl2026@learner.manipal.edu"><kbd>&nbsp;&nbsp;📧 Email — anurag1.tapmimpl2026@learner.manipal.edu&nbsp;&nbsp;</kbd></a>&nbsp;&nbsp;
-    <a href="https://ijcrt.org/viewfull.php?p_id=IJCRT2305259"><kbd>&nbsp;&nbsp;📄 Published Research (IJCRT)&nbsp;&nbsp;</kbd></a>&nbsp;&nbsp;
-    <a href="https://drkanurag.github.io/Anurag-Portfolio/"><kbd>&nbsp;&nbsp;🌐 Live Portfolio&nbsp;&nbsp;</kbd></a>
-  </p>
+  <!-- Top Social & Quick Links -->
+  <a href="https://www.linkedin.com/in/anurag-podder-4a86211a6/">
+    <img src="https://img.shields.io/badge/LinkedIn-Anurag_Podder-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSAzYTIgMiAwIDAgMSAyIDJ2MTRhMiAyIDAgMCAxLTIgMkg1YTIgMiAwIDAgMS0yLTJWNWEyIDIgMCAwIDEgMi0yaDE0bS0uNSAxNS41di01LjNhMy4yNiAzLjI2IDAgMCAwLTMuMjYtMy4yNmMtLjg1IDAtMS44NC41Mi0yLjI4IDEuM3YtMS4xMWgtMi43OXY4LjM3aDIuNzl2LTQuOTNjMC0uNzcuNjItMS40IDEuMzktMS40YTEuNCAxLjQgMCAwIDEgMS40IDEuNHY0LjkzaDIuNzVNNi44OCA4LjU2YTEuNjggMS42OCAwIDAgMCAxLjY4LTEuNjhjMC0uOTMtLjc1LTEuNjktMS42OC0xLjY5YTEuNjkgMS42OSAwIDAgMC0xLjY5IDEuNjljMCAuOTMuNzYgMS42OCAxLjY5IDEuNjhtMS4zOSA5Ljk0di04LjM3SDUuNXY4LjM3aDIuNzd6Ii8+PC9zdmc+" alt="LinkedIn" />
+  </a>&nbsp;
+  <a href="mailto:anurag1.tapmimpl2026@learner.manipal.edu">
+    <img src="https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>&nbsp;
+  <a href="https://ijcrt.org/viewfull.php?p_id=IJCRT2305259">
+    <img src="https://img.shields.io/badge/IJCRT-Research_Paper-8A2BE2?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Research Paper" />
+  </a>&nbsp;
+  <a href="https://drkanurag.github.io/Anurag-Portfolio/">
+    <img src="https://img.shields.io/badge/GitHub-Live_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+  </a>
 
 </div>
 
@@ -259,13 +265,18 @@ Computer Associate — Project Management & Planning
 
   <br/>
 
-  <p>
-    <a href="https://www.linkedin.com/in/anurag-podder-4a86211a6/"><kbd>&nbsp;&nbsp;💼 LinkedIn — Anurag Podder&nbsp;&nbsp;</kbd></a>&nbsp;&nbsp;
-    <a href="mailto:anurag1.tapmimpl2026@learner.manipal.edu"><kbd>&nbsp;&nbsp;📧 Email Me&nbsp;&nbsp;</kbd></a>&nbsp;&nbsp;
-    <a href="https://ijcrt.org/viewfull.php?p_id=IJCRT2305259"><kbd>&nbsp;&nbsp;📄 Research Paper (IJCRT2305259)&nbsp;&nbsp;</kbd></a>&nbsp;&nbsp;
-    <a href="https://drkanurag.github.io/Anurag-Portfolio/"><kbd>&nbsp;&nbsp;🌐 Live Portfolio&nbsp;&nbsp;</kbd></a>&nbsp;&nbsp;
-    <a href="tel:+919650930525"><kbd>&nbsp;&nbsp;📱 +91-9650930525&nbsp;&nbsp;</kbd></a>
-  </p>
+  <a href="https://www.linkedin.com/in/anurag-podder-4a86211a6/">
+    <img src="https://img.shields.io/badge/LinkedIn-Anurag_Podder-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSAzYTIgMiAwIDAgMSAyIDJ2MTRhMiAyIDAgMCAxLTIgMkg1YTIgMiAwIDAgMS0yLTJWNWEyIDIgMCAwIDEgMi0yaDE0bS0uNSAxNS41di01LjNhMy4yNiAzLjI2IDAgMCAwLTMuMjYtMy4yNmMtLjg1IDAtMS44NC41Mi0yLjI4IDEuM3YtMS4xMWgtMi43OXY4LjM3aDIuNzl2LTQuOTNjMC0uNzcuNjItMS40IDEuMzktMS40YTEuNCAxLjQgMCAwIDEgMS40IDEuNHY0LjkzaDIuNzVNNi44OCA4LjU2YTEuNjggMS42OCAwIDAgMCAxLjY4LTEuNjhjMC0uOTMtLjc1LTEuNjktMS42OC0xLjY5YTEuNjkgMS42OSAwIDAgMC0xLjY5IDEuNjljMCAuOTMuNzYgMS42OCAxLjY5IDEuNjhtMS4zOSA5Ljk0di04LjM3SDUuNXY4LjM3aDIuNzd6Ii8+PC9zdmc+" alt="LinkedIn" />
+  </a>&nbsp;
+  <a href="mailto:anurag1.tapmimpl2026@learner.manipal.edu">
+    <img src="https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>&nbsp;
+  <a href="https://ijcrt.org/viewfull.php?p_id=IJCRT2305259">
+    <img src="https://img.shields.io/badge/IJCRT-Research_Paper-8A2BE2?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Research Paper" />
+  </a>&nbsp;
+  <a href="https://drkanurag.github.io/Anurag-Portfolio/">
+    <img src="https://img.shields.io/badge/GitHub-Live_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+  </a>
 
   <br/><br/>
 
